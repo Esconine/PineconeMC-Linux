@@ -1,7 +1,7 @@
 [Desktop Entry]
 Categories=Game;
 Name=PineconeMC
-Comment=The fork of Prism Launcher with integrated support for Ely.by accounts (Earlier ElyPrismLauncher)
+Comment=The fork of PineconeMC with integrated support for Ely.by accounts (Earlier ElyPrismLauncher)
 Exec=/usr/bin/PineconeMC.AppImage
 Icon=pineconemc-desktop
 Type=Application
