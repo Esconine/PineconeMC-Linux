@@ -2,7 +2,7 @@
 pkgname=pineconemc-bin
 pkgver=1.0.0
 pkgrel=1
-pkgdesc='The fork of Prism Launcher with integrated support for Ely.by accounts (Earlier ElyPrismLauncher)'
+pkgdesc='The fork of PineconeMC with integrated support for Ely.by accounts (Earlier ElyPrismLauncher)'
 arch=('x86_64')
 url='https://elyprismlauncher.github.io/'
 license=('GPL-3.0-only')
