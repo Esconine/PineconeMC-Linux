@@ -23,7 +23,7 @@ The fork of [PineconeMC](https://elyprismlauncher.github.io/) with integrated su
 Then install the PineconeMC by running in the terminal:
 
 ```
-git clone https://github.com/Esconine/PineconeMC-Linux && cd PineconeMC-Linux && makepkg -si
+git clone https://github.com/Esconine/PineconeMC-Linux && cd ~/PineconeMC-Linux && makepkg -si
 ```
 
 ## Uninstallation
