@@ -31,4 +31,5 @@ git clone https://github.com/Esconine/PineconeMC-Linux && cd PineconeMC-Linux &&
 If you want to uninstall the PineconeMC and all its dependencies run in the terminal:
 
 ```
-sudo pacman -Rns pineconemc-bin && rm -rf ~/PineconeMC-Linux
+sudo pacman -Rns pineconemc-bin pineconemc-bin-debug && rm -rf ~/PineconeMC-Linux
+```
