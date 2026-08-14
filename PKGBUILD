@@ -6,7 +6,7 @@ pkgdesc='The fork of PineconeMC with integrated support for Ely.by accounts (Ear
 arch=('x86_64')
 url='https://elyprismlauncher.github.io/'
 license=('GPL-3.0-only')
-depends=('glibc' 'zlib' 'hicolor-icon-theme')
+depends=('glibc' 'zlib' 'hicolor-icon-theme' 'fuse2')
 
 source=(
     "PineconeMC-Linux-x86_64.AppImage::https://github.com/ElyPrismLauncher/Launcher/releases/download/11.0.3/PineconeMC-Linux-x86_64.AppImage"
