@@ -20,7 +20,7 @@ sha256sums=('df6958fba93c97aa6cb8150d3d3a828ace0d3ba2eadfce303565d1b903d04a20'
 
 package() {
     install -d "${pkgdir}/usr/bin"
-    install -m755 "${srcdir}/PineconeMC-Linux-x86_64.AppImage" "${pkgdir}/usr/bin/pineconemc-desktop"
+    install -m755 "${srcdir}/PineconeMC-Linux-x86_64.AppImage" "${pkgdir}/usr/bin/PineconeMC.AppImage"
 
     install -d "${pkgdir}/usr/share/pixmaps"
     install -m644 "${srcdir}/PineconeMC.png" "${pkgdir}/usr/share/pixmaps/pineconemc-desktop.png"
